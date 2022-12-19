@@ -1,1 +1,1 @@
-# react-state-management-demo
+# react-state-management-editmode-demo
